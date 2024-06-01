@@ -35,3 +35,6 @@ pip install -r requirements.txt
 ```sh
 python transcribir_y_sincronizar_audio1.py
 python transcribir_y_sincronizar_audio2.py
+
+## Limpieza
+python .\limpiar_subtitulos.py archivo.srt
