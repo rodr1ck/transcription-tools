@@ -1,0 +1,11 @@
+# Excluir carpetas
+backup/
+html/
+html_v2/
+noSync/
+nuevo_entorno/
+
+# Excluir archivos específicos
+*.mp3
+*.srt
+*.txt
